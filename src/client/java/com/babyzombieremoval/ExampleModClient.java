@@ -1,4 +1,4 @@
-package com.example;
+package com.babyzombieremoval;
 
 import net.fabricmc.api.ClientModInitializer;
 
