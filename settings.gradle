@@ -1,10 +1,9 @@
-rootProject.name = 'babyzombieremoval'
-
 pluginManagement {
 	repositories {
 		maven {
-			name = 'fabric'
+			name = 'babyzombieremoval'
 			url = 'https://maven.fabricmc.net/'
+			rootProject.name = 'babyzombieremoval'
 		}
 		mavenCentral()
 		gradlePluginPortal()
