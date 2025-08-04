@@ -8,18 +8,15 @@
 		"WildEye"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/WildEye341/babyzombieremoval",
+		"sources": "https://github.com/WildEye341/babyzombieremoval"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/babyzombieremoval/icon.png",
+	"license": "MIT",
+	"icon": "icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"com.babyzombieremoval.BabyZombieRemoval"
-		],
-		"client": [
-			"com.babyzombieremoval.ExampleModClient"
 		]
 	},
 	"depends": {
