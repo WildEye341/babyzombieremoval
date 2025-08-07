@@ -45,8 +45,8 @@ The baby zombie should vanish instantly. Like magic. Evil magic.
 
 ## 🔗 Downloads
 
-- 🌱 [Modrinth](https://modrinth.com/mod/YOUR_MOD_SLUG) *(Coming soon)*
-- 🔥 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/YOUR_MOD_SLUG) *(Coming soon)*
+- 🌱 [Modrinth](https://modrinth.com/mod/baby-zombie-removal)
+- 🔥 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/baby-zombie-removal)
 
 ---
 
